@@ -14,3 +14,6 @@ Made for the Project course at the Faculty of Electrical Engineering and Computi
 - Lea Skorin-Kapov
 - Mirta Moslavac
 - Sara Vlahović
+
+## Video: 
+- Short Proof VRAR Comms_v2.mp4
